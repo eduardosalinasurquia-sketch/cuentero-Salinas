@@ -20,7 +20,7 @@ Aplicación móvil creada con React Native y Expo para guardar cuentos de la sel
 
 ## Capturas de pantalla
 
-Coloca las imágenes tomadas en el celular dentro de la carpeta `docs/capturas/` y conserva estos nombres, o cambia las rutas según corresponda:
+Capturas De Funciones De la App
 
 ### Lista de cuentos
 
