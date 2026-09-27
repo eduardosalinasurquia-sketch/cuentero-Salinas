@@ -24,23 +24,27 @@ Capturas De Funciones De la App
 
 ### Lista de cuentos
 
-![Lista de cuentos](docs/capturas/lista.png)
+![Lista de cuentos](docs/capturas/lista.jpeg)
 
 ### Editor y contador de palabras
 
-![Editor](docs/capturas/editor.png)
+![Editor](docs/capturas/editor.jpeg)
 
 ### Buscador y favoritos
 
-![Buscador y favoritos](docs/capturas/buscador-favoritos.png)
+![Buscador y favoritos](docs/capturas/buscador-favoritos.jpeg)
 
 ### Etiquetas y modo oscuro
 
-![Etiquetas y modo oscuro](docs/capturas/etiquetas-modo-oscuro.png)
+![Etiquetas y modo oscuro](docs/capturas/etiquetas-modo-oscuro.jpeg)
 
 ### Exportación de cuentos
 
-![Exportación](docs/capturas/exportacion.png)
+![Exportación](docs/capturas/exportacion.jpeg)
+
+### Compartir cuentos
+
+![Compartir](docs/capturas/compartir.jpeg)
 
 ## Requisitos
 
